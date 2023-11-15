@@ -3,3 +3,6 @@
 .destaque{color: red;}
 
 .banner{width: 100%;}
+
+.lista{vertical-align: top;
+display: inline-block;}
